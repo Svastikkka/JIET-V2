@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Jiet Universe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Latest happening</string>
+    <string name="title_activity_introduction">Introduction</string>
+    <string name="title_activity_holidays">Holidays</string>
+    <string name="title_activity_student_cell">Student cell</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_contact_numbers">Contact numbers</string>
+
+
+    <string-array name="JietContact">
+
+        <!--  Contacts Groups-->
+        <item>"Dr. Rakesh Kothari"</item>
+        <item>"Mr. Utkarsh Bhandari"</item>
+        <item>" Mr. Mukesh Mathur"</item>
+        <item>"Ms Maneet Siwachi"</item>
+        <item>"Ms. Nidhi Bhargaava"</item>
+        <item>"Mr. Jitendera Choudhary"</item>
+        <item>"Ms. Aishwarya Prabhakar"</item>
+        <item>"Mr. Nishant Goyal"</item>
+        <item>"Mr. Samundra Singh"</item>
+        <item>"Ms. Rakhi Goyal"</item>
+        <item>"Mr. Suresh K. Verma"</item>
+
+
+        <item>"Dr. Rajendra Karwa"</item>
+        <item>"O.P Vyas"</item>
+        <item>"Dr. R.K Gupta"</item>
+        <item>"Prof. Mr Baid"</item>
+        <item>"Dr. Arvind Rai"</item>
+        <item>"Dr. Hemant Phurohit"</item>
+        <item>"Prof. Mamta Garg"</item>
+        <item>"Prof. Kusum Agarwal"</item>
+        <item>"Prof. Pankaj Acharya"</item>
+        <item>"Dr. Punita Soni"</item>
+        <item>"Prof. Manish Bafna"</item>
+        <item>"Dr. A.M Khan"</item>
+        <item>"Dr. Sandeep Mathur"</item>
+        <item>"Prof. Ashwani Mathur"</item>
+        <item>"Mr. Gajendra Singh"</item>
+        <item>"Mr. Amit Singh Shekhawat"</item>
+
+
+    </string-array>
+
+    <string-array name="JietDesignation">
+
+        <!--  Contacts Groups-->
+        <item>"Ragistrar"</item>
+        <item>"C.A.O"</item>
+        <item>"Dy.Registrar and CIO"</item>
+        <item>"Manager(CR)"</item>
+        <item>"Chief Librarian"</item>
+        <item>"Asst. Registrar"</item>
+        <item>"Head -HRD and Estb"</item>
+        <item>"Estate Officer"</item>
+        <item>"Chief Warden (Boys)"</item>
+        <item>"Chief Warden  (Girls)"</item>
+        <item>"Network Administrator"</item>
+
+
+        <item>"Campus Director"</item>
+        <item>"Dean(Engg.)"</item>
+        <item>"Dean(Science)"</item>
+        <item>"HOD (ME)"</item>
+        <item>"HOD (CIVIL)"</item>
+        <item>"HOD (ECE)"</item>
+        <item>"HOD (CSE)"</item>
+        <item>"HOD (EE)"</item>
+        <item>"HOD (IT)"</item>
+        <item>"HOD (MGMT)"</item>
+        <item>"Proctor and Asst. Dean"</item>
+        <item>"Asst. Dean (Science)"</item>
+        <item>"Asst. Dean (Science)"</item>
+        <item>"Controller of Examination"</item>
+        <item>"Transport Officer"</item>
+        <item>"Transport Officer"</item>
+
+    </string-array>
+    <string name="title_activity_time_table">TimeTable</string>
+    <string name="title_activity_about_us">About us</string>
+
+</resources>
