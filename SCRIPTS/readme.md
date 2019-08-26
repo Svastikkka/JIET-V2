@@ -1,1 +1,1 @@
-Above Scripts use for Fetch students attendance and Midterm marks.
+Scripts use for Fetch students attendance and Midterm marks and show in json format .
