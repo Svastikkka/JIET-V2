@@ -1,0 +1,1 @@
+Above Scripts use for Fetch students attendance and Midterm marks.
